@@ -36,4 +36,4 @@ and trends that guide app development strategies.
 - Top category by installs: Communication
 
 ## Looker Studio Dashboard
-[Link will be added after dashboard is created]
+(https://datastudio.google.com/reporting/4a48a94f-1d3f-44cc-bc3f-e93a6d67357d)
